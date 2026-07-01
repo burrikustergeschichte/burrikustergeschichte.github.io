@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<!-- BOTTOM LEFT WM -->
+{% if page.logo-wm %}
+  <img src="{{ page.logo-wm | relative_url }}" alt="Burri Kuster Geschichte" class="logo-bottom-left">
+{% endif %}
+
+<!-- TOP RIGHT ADDRESS -->
+{% if page.logo-addr %}
+  <img src="{{ page.logo-addr | relative_url }}" alt="Adresse" class="logo-top-right">
+{% endif %}
+
+  <div class="main-content">
+    {%- if page.title -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+    
+    {{ content }}
+    
+  </div>
+</div>
