@@ -7,15 +7,14 @@ logo-wm: /assets/img/Sidebar_WM_violet.svg
 logo-addr: /assets/img/Sidebar_ADDR_violet.svg
 title: Ein Büro für Geschichte
 ---
+Wir sind ein kleines Büro für Projekte, die mit Geschichte zu tun haben. Als Zweierteam recherchieren wir Hintergründe, durchforsten Archive und vermitteln Resultate. Suchen Sie Expert:innen für einen historischen Forschungsbericht, eine Buchpublikation oder eine Ausstellung? Anfragen für Aufträge und Projekte nehmen wir sehr gerne entgegen.
 
-<!-- Wir sind zu zweit ein kleines Büro und machen vor allem Projekte, die mit Geschichte zu tun haben. Das können grössere Forschungsberichte sein oder auch kleinere Fachartikel, oder populäre Beiträge in verschiedenen Medien. Ausserdem machen wir auch Buchpublikationen und Ausstellungen. Unsere Schwerpunkte, wo wir besonders geübt sind liegen in der Schweizergeschichte des 20. Jahrhunderts, in der Migrationsgeschichte sowie in der Wissenschaftsgeschichte. Anfragen für Aufträge und Projekte nehmen wir sehr gerne entgegen. -->
+Seit 2023 arbeiten wir freischaffend. Wir sind promovierte Historiker:innen und haben uns bisher mit Frauen- und Geschlechtergeschichte, mit Wissenschaftsgeschichte und Migrationsgeschichte und zuletzt auch mit Wirtschafts- und Sammlungsgeschichte beschäftigt. Über Kompetenzen verfügen wir zudem im Bereich *Digital history* und haben Freude an quantitativen Methoden und digitaler Vermittlung.
 
-Wir sind ein kleines Büro für Projekte, die mit Geschichte zu tun haben. Die Schweizer Geschichte des 20. Jahrhunderts interessiert uns besonders. Suchen Sie Expert:innen für einen historischen Forschungsbericht, eine Buchpublikation oder eine Ausstellung? Anfragen für Aufträge und Projekte nehmen wir sehr gerne entgegen.
+[Unser Portfolio als PDF](/assets/pdf/Portfolio-Burri-Kuster-Geschichte-2026-07.pdf){:target="\_blank" :rel="noopener noreferrer"}
 
-Als Zweierteam arbeiten wir effizient zusammen und ergänzen uns in vielen Bereichen. Speziell viel Erfahrung können wir in der Migrationsgeschichte, der Wissenschaftsgeschichte und der Frauen- und Geschlechtergeschichte ausweisen. Über Kompetenzen verfügen wir ausserdem im Bereich *Digital history*, beispielsweise in der Immobilien- und der Sammlungsgeschichte.
-
-[Unser Portfolio als PDF](/assets/pdf/Portfolio-Burri-Kuster-Geschichte-2026-06.pdf){:target="\_blank" :rel="noopener noreferrer"}
-
-[E-Mail senden](mailto:geschichte@burrikuster.com)
-
+<a href="mailto:anfrage@burrikuster@@com"
+   onclick="this.href=this.href.replace('@@','.')">
+   E-Mail senden
+</a>
 
