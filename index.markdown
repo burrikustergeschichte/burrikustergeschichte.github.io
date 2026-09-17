@@ -11,9 +11,9 @@ Wir sind ein kleines Büro für Projekte, die mit Geschichte zu tun haben. Als Z
 
 Seit 2023 arbeiten wir freischaffend. Wir sind promovierte Historiker:innen und haben uns bisher mit Frauen- und Geschlechtergeschichte, mit Wissenschaftsgeschichte und Migrationsgeschichte und zuletzt auch mit Wirtschafts- und Sammlungsgeschichte beschäftigt. Über Kompetenzen verfügen wir zudem im Bereich *Digital history* und haben Freude an quantitativen Methoden und digitaler Vermittlung.
 
-[Unser Portfolio als PDF](/assets/pdf/Portfolio-Burri-Kuster-Geschichte-2026-07.pdf){:target="\_blank" :rel="noopener noreferrer"}
+[Unser Portfolio als PDF](/assets/pdf/Portfolio-Burri-Kuster-Geschichte-2026-08.pdf){:target="\_blank" :rel="noopener noreferrer"}
 
-<a href="mailto:anfrage@burrikuster@@com"
+<a href="mailto:anfrage@burrikuster@@ch"
    onclick="this.href=this.href.replace('@@','.')">
    E-Mail senden
 </a>
